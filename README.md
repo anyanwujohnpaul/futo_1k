@@ -1,2 +1,3 @@
-# futo_1k
-Futo 1K is a platform that helps student source for funds for an impactful project.
+##FTUO_1K
+
+<p>Futo 1K is a dedicated online platform designed to assist students in raising funds for their impactful projects.</p>
